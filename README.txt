@@ -1,0 +1,4 @@
+- You may need to download the recipe.csv
+- Use build_model.py to create the model
+- Use recommender.py to generate recommendation
+- Use recipe_main.py as a streamlit app to upload the receipt and run the recommendation 
